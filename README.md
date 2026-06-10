@@ -1,4 +1,4 @@
-# Hi, I'm Luis Gerardo Mendez Villanueva 👋
+# Hi, I'm Luis Villanueva 👋
 
 I'm a **Software Engineering student** at Universidad Autónoma de Yucatán (UADY) and a **Backend Developer** specializing in high-impact systems. My focus is on automating business processes and building scalable architectures using Python and Java ecosystems.
 
